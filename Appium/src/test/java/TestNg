@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite 1" parallel="classes" thread-count="2">
+  <test name="Test1">
+  <parameter name="name" value="shiva"/>
+  <parameter name="sname" value="Vallabhaneni"/>
+    <classes>
+      <class name="Test.TestNg"/>
+      <class name="Test.NewTest"/>
+    </classes>
+    </test> <!-- Test -->
+    
+  
+</suite> <!-- Suite -->
+
